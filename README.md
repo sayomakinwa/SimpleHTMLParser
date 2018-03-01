@@ -1,2 +1,2 @@
 # SimpleHTMLParser
-A C progam that parses basic HTML tags and loads the webpage
+A C progam that uses stack data structure to parse basic HTML tags and loads the webpage. 
